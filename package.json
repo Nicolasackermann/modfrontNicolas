@@ -1,0 +1,15 @@
+{
+  "name": "modfront",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp-minify": "^3.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-watch": "^5.0.0",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}

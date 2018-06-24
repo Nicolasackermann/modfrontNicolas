@@ -1,0 +1,11 @@
+Pflichtenheft: GSI Website
+
+- Informative Website
+- Design: schlicht, flach, onepage
+- bewegliche Navigation
+- responsive Design
+- Browser: Chrome 57+
+- Html entwickelt mit PUG
+- Css entwickelt mit Sass
+- Kontakt möglichkeit
+- Navigation erweiterbar
